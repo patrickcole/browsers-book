@@ -32,7 +32,101 @@ This section is work in progress.
 
 Updated from source: https://www.xfive.co/blog/stop-supporting-ie10-ie9-ie8/
 
+
+### Detailed Notes ###
+
+Version 3.0 was the first version to not be built on the Spyglass Mosaic browser. This allowed Microsoft to publish Internet Explorer free of charge. Included partial support for CSS and began to utilize W3C HTML standards. Internet Mail and News 1.0 was suported as well as Windows Address Book integration, NPAPI, Platform for Internet Content Selection, HTML Layout Control, Quick Links toolbar, ActiveX and Frames. This version was an early popular version and also added support for NetMeeting and Windows Media Player in-browser. JScript implemented, which was Microsoft's implementation of JavaScript. Java applet support and VBScript. Inline multimedia support. Platform for Internet Content Selection (PICS), ActiveMovie multimedia API.
 ### Release History ###
+
+* 1.0.0
+	* August 16, 1995
+	* Key notes
+		* Basic text rendering
+		* No image, video or audio support yet
+		* Included as part of Microsoft Plus! for Windows 95
+* 1.5.0
+	* ~Late 1995, Early 1996
+	* Key notes
+		* Basic support for HTML tables
+		* Released for free, resulting in lawsuit by Spyglass
+* 1.6.0 Beta
+	* Key feature
+		* Rendering engine testing between Window 95 and Windows 3.x versions of MSIE.
+
+* 2.0.0 Beta
+	* October 1995
+* 2.0.0
+	* November 22, 1995 (Windows 95, Windows NT 4.0)
+	* January 23, 1996 (Mac OS PPC)
+	* April 23, 1996 (Mac OS 68k)
+	* Key features
+		* SSL
+		* Cookies
+		* VRML
+		* RSA
+		* Internet newsgroups
+		* Frames element
+		* JavaScript
+		* 16-bit email client
+		* Image support
+		* Microsoft Object Linking and Embedding (OLE)
+		* NPAPI (Netscape Plugin Application Programming)
+		* QuickTime VR
+		* Support for AVI, QuickTime Video, AIFF, MIDI, WAV
+		* MIME, MAPI support
+		* HTML 3
+		* PPP Networking stack
+		* Bookmark importer
+* 2.0.1i
+	* December 1995
+	* Key feature
+		* Support for double-byte character sets for foreign languages
+* 2.0.1
+	* August 1996 (Windows 3.1, Windows 3.1.1, Windows NT 3.1, Windows NT 3.1.1)
+	* Last version for Mac OS 7.0.1 68k
+* 2.1.0
+	* August 1996 (Mac OS)
+
+* 3.0.0 Alpha 1
+	* March 1996
+* 3.0.0 Alpha 2
+	* May 1996
+* 3.0.0 Beta 1
+	* July 1996
+* 3.0.0
+	* August 13, 1996 (Windows)
+	* January 8, 1997 (Mac OS PPC)
+	* Key features
+		* HTML version 3.2
+		* CSS
+		* Java Applets
+		* ActiveX
+		* SSL and NTML security protocols
+		* PICS and RSACi rating systems
+* 3.0.1
+	* October 1996
+	* Key features
+		* 68k support
+		* Autocomplete and favorite monitoring
+		* JavaScript support
+		* Download manager
+		* Cookie manager
+		* Microsoft Java Virtual Machine
+		* SSL 3.0
+		* 40-bit and 128-bit encryption using Server Gated Cryptography (SGC)
+* 3.0.2
+	* March 20, 1997
+	* Key features
+		* Security fixes
+		* 128-bit encryption
+* 3.0.3
+	* August 1997
+	* Key features
+		* 128-bit encryption
+* 3.0.3 Service Pack 1
+	* August 1998
+	* Key feature
+		* Year 2000 compliance
 
 * 4.0.0 Beta 1
 	* April 1997
