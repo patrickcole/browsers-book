@@ -2,6 +2,8 @@ This page is in a work-in-progress state.
 
 ### Raw Unorganized Notes/Thoughts ###
 
+[Webkit Notes from Paul Irish](http://www.paulirish.com/2013/webkit-for-developers/)
+
 * 1998, KDE open source project KHTML and KJS engines.
 * KHTML, KJS
 * 'khtmlw - "The KDE HTML Widget"' (AppStorm, July 25, 2011)
